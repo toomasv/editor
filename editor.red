@@ -46,7 +46,7 @@ context [
 		on-menu [switch event/picked [text [edited/visible?: yes]]]
 		at 0x0 widget: panel win-size hidden with [menu: ["Text" text]]
 		on-menu [switch event/picked [text [edited/visible?: yes]]]
-		edited: area win-size font-size 9 focus with [
+		edited: area win-size font-size 10 focus with [
 			menu: [
 				"Select" [
 					"Block" block
