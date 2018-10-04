@@ -13,7 +13,7 @@ view [
 		fill-pen brick 
 		circle 150x150 100
 		fill-pen gold
-		shape [move 30x30 'hline 100 'vline 50 'hline -120 'vline]
+		shape [move 30x30 'hline 100 'vline 50 'hline -120 'vline -30 'hline 20]
 		fill-pen leaf
 		arc 200x200 100x100 -90 -60 ;closed
 	]
